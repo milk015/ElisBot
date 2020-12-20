@@ -3,4 +3,4 @@
 __pycache__/
 config.py
 node_modules/
-pakage-lock.json/
+package-lock.json
