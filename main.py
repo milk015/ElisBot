@@ -11,7 +11,7 @@ import wikipedia
 import PySimpleGUI as sg
 sg.theme('dark blue')
 layout =[[sg.Text('On standby'), sg.InputText()],[sg.Button('Send Command'),sg.Button('Cancel')]]
-window = sg.Window('Elis Window', layout)
+window = sg.Window('Elis Bot', layout)
 
 import pyttsx3
 engine = pyttsx3.init()
